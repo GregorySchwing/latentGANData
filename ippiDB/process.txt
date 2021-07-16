@@ -1,0 +1,4 @@
+Filter our Smiles > 128 in excel/calc
+Filter out MYC/MAX inhibitors
+Save as smiles2MACCS.csv (without header) (comma sep) (n=2341)
+Run python3 smilesToMACCS.py

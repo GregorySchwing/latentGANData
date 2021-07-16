@@ -1,0 +1,3 @@
+Filter our Smiles > 128 in excel/calc (None)
+Save as smiles2MACCS.csv (without header) (comma sep) (n=100)
+Run python3 smilesToMACCS.py
